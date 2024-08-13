@@ -30,7 +30,7 @@
   <p>
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?&style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=green"/>
-  <img src="https://img.shields.io/badge/-Java-fff?style=for-the-badge&logo=Java&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/java-fff?style=for-the-badge&logo=java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=purple"/>
   </p>
   <p>
